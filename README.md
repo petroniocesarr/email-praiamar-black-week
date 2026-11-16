@@ -81,7 +81,7 @@ E-mail marketing comercial responsivo (fundo preto / tema dark) desenvolvido par
    - CTA Final: **`RESERVAR COM AS VANTAGENS DA BLACK WEEK`**.
 
 7. **07 \| RODAPÉ PADRÃO:**
-   - 3 cards de futuras temporadas da régua comercial (`25/12 · Natal em Família`, `31/12 · Fim de Ano`, `VERÃO · Férias em Natal`), sem afirmar que a promoção da Black Week vale nesses períodos.
+   - 3 cards de futuras temporadas da régua comercial (`25/12 · Natal em Família`, `31/12 · Fim de Ano`, `VERÃO · Férias de Verão`), sem afirmar que a promoção da Black Week vale nesses períodos.
    - Banner institucional compacto **Praia+ Fidelidade** com botão de cadastro.
    - Acordeão (`<details>`) com **Termos da Campanha Black Week & Política de Reservas/Cancelamento**.
    - Ícones oficiais das redes sociais, logo institucional `Praiamar Hotéis` e link de descadastro `{{DESCADASTRAR}}`.
